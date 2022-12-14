@@ -23,6 +23,9 @@ Here are some screenshots from the app:
 
   <img width="20%" alt="Jobs Search" src="https://user-images.githubusercontent.com/54900426/207723107-c4501987-9854-4e8c-80e5-0a972d37ceb7.png">
 
+</p>
+
+<p float="left">
   <img width="20%" alt="Jobs Detail" src="https://user-images.githubusercontent.com/54900426/207721821-30da5978-6ddd-4631-b3c9-28ae2b832b4f.png">
   
   <img width="20%" alt="Jobs Email" src="https://user-images.githubusercontent.com/54900426/207721860-6a121696-a98f-44b5-84d1-c8cd429a1e90.png">
