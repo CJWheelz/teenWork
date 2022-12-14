@@ -1,5 +1,5 @@
 # teenWork
-Winner of the 202o Congressional App Challenge for NH's 2nd Congressional District. Read about it [here](https://kuster.house.gov/news/documentsingle.aspx?DocumentID=3154).
+Winner of the 2020 Congressional App Challenge for NH's 2nd Congressional District. Read about it [here](https://kuster.house.gov/news/documentsingle.aspx?DocumentID=3154).
 
 Built my Junior Spring and Senior Fall of high school for an independent study in iOS app development with SwiftUI and Firebase.
 
