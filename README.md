@@ -7,4 +7,4 @@ You can see a demo of my app [here](https://youtu.be/YbaPMY5pyNA) as part of my 
 
 Here are some screenshots from the app:
 
-<img width="41" alt="Screenshot 2022-12-14 at 4 28 10 PM" src="https://user-images.githubusercontent.com/54900426/207719446-a744802d-ee9a-478c-828d-5da4f0854ea6.png">
+<img width="200" alt="Screenshot 2022-12-14 at 4 28 10 PM" src="https://user-images.githubusercontent.com/54900426/207719446-a744802d-ee9a-478c-828d-5da4f0854ea6.png">
