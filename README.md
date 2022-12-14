@@ -5,4 +5,6 @@ Built my Junior Spring of high school for an independent study in iOS app develo
 
 You can see a demo of my app [here](https://youtu.be/YbaPMY5pyNA) as part of my submission to the Congressional App Challenge.
 
+<a href="https://youtu.be/YbaPMY5pyNA" target="_blank">Here</a>
+
 Here are some screenshots from the app:
